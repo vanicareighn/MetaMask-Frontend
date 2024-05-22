@@ -11,7 +11,7 @@ To begin using the application, make sure to have MetaMask installed on the brow
 
 ## Codes
 
-The JavaScipt Code and Solidity Codes can be found on main repository.
+The JavaScipt Code and Solidity Codes can be found on scm starter codes/contracts/Assessment.sol for the Assessment solidity contract file and scm starter codes/pages/index.js for the JavaScript Frontend codes
 
 ## Additional Information
 
