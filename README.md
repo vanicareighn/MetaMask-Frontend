@@ -1,5 +1,5 @@
 # MetaMask-Frontend
-ETH Intermediate Module 2 - MetaMask JS FrontEnd
+ETH Intermediate Module 2 - MetaMask JavaScript FrontEnd
 
 ## Description
 
